@@ -19,4 +19,4 @@ cron.schedule('*/1 * * * *', async () => {
 
 		throw err
 	}
-})();
+});
