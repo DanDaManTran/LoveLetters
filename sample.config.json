@@ -1,0 +1,10 @@
+{
+	"mailConfig": {
+  		"service": "",
+		"auth": {
+		  "user": "",
+		  "pass": ""
+		}	 
+	},
+	"toEmail": ""
+}
